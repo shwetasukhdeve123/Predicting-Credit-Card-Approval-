@@ -1,4 +1,5 @@
 Credit Card Approval
+
 Predicting if credit card request will approved for the customer given other attributes
 
 Motivation
