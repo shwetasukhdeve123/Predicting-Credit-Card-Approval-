@@ -6,13 +6,19 @@ A machine learning model to predict if a credit card application will get approv
 Libraries Used
 
 sklearn
+
 pandas
+
 numpy
-seaborn
+
+
+
 matplotlib
 
 Files Description
+
 credit-approval_pandas.csv: This is the dataset file for the project
+
 Data is downloaded from http://archive.ics.uci.edu/ml/datasets/credit+approval
 
 Summary
