@@ -1,8 +1,23 @@
 Credit Card Approval
 
-Predicting if credit card request will approved for the customer given other attributes
+A machine learning model to predict if a credit card application will get approved or not.
 
-Motivation
-Commercial banks receive a lot of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report, for example. Manually analyzing these applications is mundane, error-prone, and time-consuming (and time is money!). This task can be automated with the power of machine learning and pretty much every commercial bank does so nowadays. In this notebook, we will build an automatic credit card approval predictor using machine learning techniques, just like the real banks do
+
+Libraries Used
+
+sklearn
+pandas
+numpy
+seaborn
+matplotlib
+
+Files Description
+credit-approval_pandas.csv: This is the dataset file for the project
+Data is downloaded from http://archive.ics.uci.edu/ml/datasets/credit+approval
+
+Summary
+
+In this project, I have tried to find out the factors that are most important for getting an approval for the credit card through the power of Data Analysis and Machine Learning. Though we have achieved 82% of accuracy, we also tried to check if we can improve the performance further and tried decision tree. However, 82% is the best we could get from this data using  logistic regression 
+
 
 
